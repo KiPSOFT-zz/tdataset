@@ -247,9 +247,9 @@ this method onyl execute sql not return field or value. Example UPDATA T SET A =
 
 **Parameters**
 
-**SQL**: string, this method onyl execute sql not return field or value. Example UPDATA T SET A = 1
+**SQL**: string, this method onyl execute sql not return field or value. Example UPDATE T SET A = 1
 
-**OnExecute**: callback, this method onyl execute sql not return field or value. Example UPDATA T SET A = 1
+**OnExecute**: callback, this method onyl execute sql not return field or value. Example UPDATE T SET A = 1
 
 
 TServerConnection.Open(Fetch, Skip, First, OnConnect) 
