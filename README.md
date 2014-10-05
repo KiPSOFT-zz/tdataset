@@ -1,4 +1,5 @@
 # TDataset for node.js
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/KiPSOFT/tdataset?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Delphi programming language is used in the class TDataSet. TDataSet class is the main class which controls all database operations. This class can be used with node.js so I wrote with JavaScript. Firebird support is available now. 
 
