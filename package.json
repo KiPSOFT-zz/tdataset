@@ -15,7 +15,7 @@
         "sqlparser"
     ],
     "dependencies": {
-        "moment": "1.7.2",
+        "moment": "2.19.3",
         "sql-parser": "0.4.0",
         "node-firebird": "0.1.1"
     },
